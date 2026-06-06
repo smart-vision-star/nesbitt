@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [Install-script allowlists](https://nesbitt.io/2026/06/05/install-script-allowlists.html)
 - [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html)
 - [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html)
 - [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
 - [CHAOSS Metrics in 2026](https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html)
 - [GitHub Actions security in Python packages](https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html)
-- [Signing is for the bad days](https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html)
 <!-- POSTS:END -->
