@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [Package Manager Patents](https://nesbitt.io/2026/06/08/package-manager-patents.html)
 - [This Week in Package Management: 6 June 2026](https://nesbitt.io/2026/06/06/this-week-in-package-management.html)
 - [Install-script allowlists](https://nesbitt.io/2026/06/05/install-script-allowlists.html)
 - [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [Composer’s dependency policies](https://nesbitt.io/2026/05/29/composer-dependency-policies.html)
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 - [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
-- [CHAOSS Metrics in 2026](https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html)
 <!-- POSTS:END -->
