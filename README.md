@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [This Week in Package Management: 13 June 2026](https://nesbitt.io/2026/06/13/this-week-in-package-management.html)
 - [Joint Guidance on Vulnerability Naming and Disclosure](https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html)
 - [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html)
 - [Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html)
 - [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html)
 - [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html)
-- [This Week in Package Management: 30 May 2026](https://nesbitt.io/2026/05/30/this-week-in-package-management.html)
 <!-- POSTS:END -->
