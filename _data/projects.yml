@@ -3,14 +3,14 @@
   url: https://github.com/andrew/ultimate-awesome
   description: Every awesome list on every topic, including awesome lists of awesome
     lists, updated daily.
-  stars: 201
+  stars: 204
   language:
-  pushed_at: '2026-06-28T01:14:20Z'
+  pushed_at: '2026-07-05T00:59:11Z'
 - name: gitgres
   url: https://github.com/andrew/gitgres
   description: Store git objects and refs in PostgreSQL tables. Standard git push/clone
     work against the database through a libgit2-based backend.
-  stars: 81
+  stars: 83
   language: C
   pushed_at: '2026-03-08T20:14:08Z'
 - name: nesbitt.io
@@ -19,7 +19,7 @@
     about package management, software supply chain security, and open source infrastructure. '
   stars: 33
   language: HTML
-  pushed_at: '2026-06-28T01:24:58Z'
+  pushed_at: '2026-07-05T09:22:26Z'
 - name: gitballs
   url: https://github.com/andrew/gitballs
   description: Storing multiple tarballs in git to save space
@@ -33,13 +33,13 @@
   stars: 15
   language:
   pushed_at: '2026-03-08T09:10:11Z'
-- name: sidekiq-mcp
-  url: https://github.com/andrew/sidekiq-mcp
-  description: A Sidekiq plugin that provides an MCP (Model Context Protocol) server
-    for LLMs to interact with Sidekiq queues, stats, and failed jobs
+- name: purl
+  url: https://github.com/andrew/purl
+  description: A Ruby library for parsing, validating, and generating Package URLs
+    (PURLs) as defined by the PURL specification
   stars: 12
   language: Ruby
-  pushed_at: '2026-06-23T21:45:42Z'
+  pushed_at: '2026-06-30T10:32:56Z'
 - name: go-bundler
   url: https://github.com/andrew/go-bundler
   description: Go-style imports for Ruby
@@ -52,13 +52,13 @@
   stars: 12
   language: Ruby
   pushed_at: '2026-04-27T10:05:45Z'
-- name: purl
-  url: https://github.com/andrew/purl
-  description: A Ruby library for parsing, validating, and generating Package URLs
-    (PURLs) as defined by the PURL specification
+- name: sidekiq-mcp
+  url: https://github.com/andrew/sidekiq-mcp
+  description: A Sidekiq plugin that provides an MCP (Model Context Protocol) server
+    for LLMs to interact with Sidekiq queues, stats, and failed jobs
   stars: 12
   language: Ruby
-  pushed_at: '2026-06-23T13:09:41Z'
+  pushed_at: '2026-06-23T21:45:42Z'
 - name: vers
   url: https://github.com/andrew/vers
   description: A Ruby gem for parsing, comparing and sorting versions according to
@@ -131,18 +131,18 @@
   stars: 7
   language: Ruby
   pushed_at: '2026-04-27T10:05:27Z'
+- name: sbom
+  url: https://github.com/andrew/sbom
+  description: Parse, generate, and validate Software Bill of Materials (SBOM)
+  stars: 4
+  language: Ruby
+  pushed_at: '2026-07-01T18:43:16Z'
 - name: jekyll-standard-site
   url: https://github.com/andrew/jekyll-standard-site
   description: Jekyll plugin that emits standard.site verification artifacts
   stars: 4
   language: Ruby
   pushed_at: '2026-06-24T10:04:38Z'
-- name: sbom
-  url: https://github.com/andrew/sbom
-  description: Parse, generate, and validate Software Bill of Materials (SBOM)
-  stars: 4
-  language: Ruby
-  pushed_at: '2026-06-26T12:02:46Z'
 - name: diffoscope
   url: https://github.com/andrew/diffoscope
   description: Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs,
@@ -150,54 +150,66 @@
   stars: 3
   language: Ruby
   pushed_at: '2026-04-27T10:05:34Z'
-- name: weekend-at-bernies
-  url: https://github.com/andrew/weekend-at-bernies
-  description: Data collection for Weekend at Bernie's blog post
+- name: homebrew-advisory-database
+  url: https://github.com/andrew/homebrew-advisory-database
+  description: OSV-format vulnerability records for Homebrew packages
   stars: 3
-  language: Ruby
-  pushed_at: '2026-06-23T14:51:12Z'
+  language:
+  pushed_at: '2026-06-28T22:15:07Z'
 - name: vid
   url: https://github.com/andrew/vid
   description: Content-addressed vulnerability identifiers
   stars: 3
   language: Go
-  pushed_at: '2026-06-24T10:49:10Z'
+  pushed_at: '2026-07-01T12:07:40Z'
 - name: gitlocal
   url: https://github.com/andrew/gitlocal
   description: A pre-commit hook for .gitlocal marked files
   stars: 3
   language: Shell
   pushed_at: '2026-03-06T09:17:43Z'
-- name: grass-ruby
-  url: https://github.com/andrew/grass-ruby
-  description: A fast Sass compiler for Ruby, powered by grass (Rust)
-  stars: 2
+- name: weekend-at-bernies
+  url: https://github.com/andrew/weekend-at-bernies
+  description: Data collection for Weekend at Bernie's blog post
+  stars: 3
   language: Ruby
-  pushed_at: '2026-04-27T10:35:09Z'
+  pushed_at: '2026-06-23T14:51:12Z'
 - name: dirhash
   url: https://github.com/andrew/dirhash
   description: Generate Go module zip digests compatible with sum.golang.org
   stars: 2
   language: Ruby
   pushed_at: '2026-04-27T10:05:48Z'
+- name: grass-ruby
+  url: https://github.com/andrew/grass-ruby
+  description: A fast Sass compiler for Ruby, powered by grass (Rust)
+  stars: 2
+  language: Ruby
+  pushed_at: '2026-04-27T10:35:09Z'
 - name: foss-backstage
   url: https://github.com/andrew/foss-backstage
   description: Is InnerSource Commons good for open source?
   stars: 2
   language: Ruby
   pushed_at: '2026-06-23T21:44:40Z'
-- name: swhid-go
-  url: https://github.com/andrew/swhid-go
-  description: A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
+- name: sarif
+  url: https://github.com/andrew/sarif
+  description: A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
   stars: 2
-  language: Go
-  pushed_at: '2026-05-22T02:53:04Z'
+  language: Ruby
+  pushed_at: '2026-06-19T10:06:04Z'
 - name: jekyll-stats
   url: https://github.com/andrew/jekyll-stats
   description: Jekyll plugin that generates site statistics
   stars: 2
   language: Ruby
   pushed_at: '2026-06-22T11:27:46Z'
+- name: swhid-go
+  url: https://github.com/andrew/swhid-go
+  description: A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
+  stars: 2
+  language: Go
+  pushed_at: '2026-07-04T08:26:47Z'
 - name: semgrep-codeql
   url: https://github.com/andrew/semgrep-codeql
   description: Converted security rules fromcodeql to semgrep format.
@@ -211,12 +223,6 @@
   stars: 2
   language:
   pushed_at: '2025-11-26T18:50:44Z'
-- name: sarif
-  url: https://github.com/andrew/sarif
-  description: A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
-  stars: 2
-  language: Ruby
-  pushed_at: '2026-06-19T10:06:04Z'
 - name: gitlab-faraday
   url: https://github.com/andrew/gitlab-faraday
   description: Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab
