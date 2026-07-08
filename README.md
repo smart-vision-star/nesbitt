@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html)
 - [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html)
 - [The CRA is not about open source](https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html)
 - [Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html)
 - [Sunsetting a Package Manager](https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html)
 - [This Week in Package Management: 20 June 2026](https://nesbitt.io/2026/06/20/this-week-in-package-management.html)
-- [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html)
 <!-- POSTS:END -->
