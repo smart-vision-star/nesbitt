@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html)
 - [Unboxed: Zig](https://nesbitt.io/2026/07/09/unboxed-zig.html)
 - [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html)
 - [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [This Week in Package Management: 27 June 2026](https://nesbitt.io/2026/06/27/this-week-in-package-management.html)
 - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 - [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html)
-- [Sunsetting a Package Manager](https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html)
 <!-- POSTS:END -->
