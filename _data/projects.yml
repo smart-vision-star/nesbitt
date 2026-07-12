@@ -3,9 +3,9 @@
   url: https://github.com/andrew/ultimate-awesome
   description: Every awesome list on every topic, including awesome lists of awesome
     lists, updated daily.
-  stars: 204
+  stars: 206
   language:
-  pushed_at: '2026-07-05T00:59:11Z'
+  pushed_at: '2026-07-12T00:51:21Z'
 - name: gitgres
   url: https://github.com/andrew/gitgres
   description: Store git objects and refs in PostgreSQL tables. Standard git push/clone
@@ -19,7 +19,7 @@
     about package management, software supply chain security, and open source infrastructure. '
   stars: 33
   language: HTML
-  pushed_at: '2026-07-05T09:22:26Z'
+  pushed_at: '2026-07-12T03:29:09Z'
 - name: gitballs
   url: https://github.com/andrew/gitballs
   description: Storing multiple tarballs in git to save space
@@ -137,6 +137,12 @@
   stars: 4
   language: Ruby
   pushed_at: '2026-07-01T18:43:16Z'
+- name: homebrew-advisory-database
+  url: https://github.com/andrew/homebrew-advisory-database
+  description: OSV-format vulnerability records for Homebrew packages
+  stars: 4
+  language:
+  pushed_at: '2026-06-28T22:15:07Z'
 - name: jekyll-standard-site
   url: https://github.com/andrew/jekyll-standard-site
   description: Jekyll plugin that emits standard.site verification artifacts
@@ -150,12 +156,12 @@
   stars: 3
   language: Ruby
   pushed_at: '2026-04-27T10:05:34Z'
-- name: homebrew-advisory-database
-  url: https://github.com/andrew/homebrew-advisory-database
-  description: OSV-format vulnerability records for Homebrew packages
+- name: sarif
+  url: https://github.com/andrew/sarif
+  description: A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
   stars: 3
-  language:
-  pushed_at: '2026-06-28T22:15:07Z'
+  language: Ruby
+  pushed_at: '2026-06-19T10:06:04Z'
 - name: vid
   url: https://github.com/andrew/vid
   description: Content-addressed vulnerability identifiers
@@ -192,12 +198,6 @@
   stars: 2
   language: Ruby
   pushed_at: '2026-06-23T21:44:40Z'
-- name: sarif
-  url: https://github.com/andrew/sarif
-  description: A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
-  stars: 2
-  language: Ruby
-  pushed_at: '2026-06-19T10:06:04Z'
 - name: jekyll-stats
   url: https://github.com/andrew/jekyll-stats
   description: Jekyll plugin that generates site statistics
@@ -209,7 +209,7 @@
   description: A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
   stars: 2
   language: Go
-  pushed_at: '2026-07-04T08:26:47Z'
+  pushed_at: '2026-07-11T09:40:18Z'
 - name: semgrep-codeql
   url: https://github.com/andrew/semgrep-codeql
   description: Converted security rules fromcodeql to semgrep format.
