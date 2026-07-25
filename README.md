@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 - [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 - [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [Unboxed: Zig](https://nesbitt.io/2026/07/09/unboxed-zig.html)
 - [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html)
 - [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html)
-- [The CRA is not about open source](https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html)
 <!-- POSTS:END -->
