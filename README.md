@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [This Week in Package Management: 1 August 2026](https://nesbitt.io/2026/08/01/this-week-in-package-management.html)
 - [The AI Phrasebook](https://nesbitt.io/2026/07/31/the-ai-phrasebook.html)
 - [Wheels, Bottles and Images](https://nesbitt.io/2026/07/30/wheels-bottles-images.html)
 - [Why npm Dependency Trees Are So Big](https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 - [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html)
 - [Plumbing Homebrew into the vulnerability ecosystem](https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html)
-- [This Week in Package Management: 11 July 2026](https://nesbitt.io/2026/07/11/this-week-in-package-management.html)
 <!-- POSTS:END -->
