@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [The Software Stewardship Lab](https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html)
 - [A year of AI disclosure in critical packages](https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html)
 - [brew install actions/checkout](https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html)
 - [This Week in Package Management: 1 August 2026](https://nesbitt.io/2026/08/01/this-week-in-package-management.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [This Week in Package Management: 25 July 2026](https://nesbitt.io/2026/07/25/this-week-in-package-management.html)
 - [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
-- [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 <!-- POSTS:END -->
