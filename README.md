@@ -6,6 +6,7 @@ I write about package management, software supply chain security, and open sourc
 ## Recent posts
 
 <!-- POSTS:START -->
+- [Shared Code Between Package Managers](https://nesbitt.io/2026/08/11/package-manager-library-reuse.html)
 - [This Week in Package Management: 8 August 2026](https://nesbitt.io/2026/08/08/this-week-in-package-management.html)
 - [The Software Stewardship Lab](https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html)
 - [A year of AI disclosure in critical packages](https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html)
@@ -15,5 +16,4 @@ I write about package management, software supply chain security, and open sourc
 - [Wheels, Bottles and Images](https://nesbitt.io/2026/07/30/wheels-bottles-images.html)
 - [Why npm Dependency Trees Are So Big](https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html)
 - [This Week in Package Management: 25 July 2026](https://nesbitt.io/2026/07/25/this-week-in-package-management.html)
-- [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 <!-- POSTS:END -->
